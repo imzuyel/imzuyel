@@ -1,6 +1,6 @@
 ### Hi there, I'm Zuyel - Rana [imzuyel][website] 👋
 
-[![Website](https://img.shields.io/website?label=imzuyel.xyz&style=for-the-badge&url=https%3A%2F%2imzuyel.xyz)](https://imzuyel.xyz)
+[![Website](https://img.shields.io/website?label=imzuyel.com&style=for-the-badge&url=https%3A%2F%2imzuyel.com)](https://imzuyel.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imzuyel?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://twitter.com/imzuyel)
 
 ## I'm a Full-stack Laravel Delveoper!!
@@ -52,8 +52,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/imzuyel/portfolio-sass/issues/1) in [imzuyel/portfolio-sass](https://github.com/imzuyel/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/imzuyel/portfolio-sass/pull/1) in [imzuyel/portfolio-sass](https://github.com/imzuyel/portfolio-sass)
+1. 🗣 Commented on [#1](https://github.com/imzuyel/) in [imzuyel/portfolio-sass](https://github.com/imzuyel)
+2. 🎉 Merged PR [#1](https://github.com/imzuyel/portfolio-sass/pull/1) in [imzuyel/portfolio-sass](https://github.com/imzuyel)
 
 
 <!--END_SECTION:activity-->
