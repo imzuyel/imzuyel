@@ -1,7 +1,7 @@
 ### Hi there, I'm Zuyel - Rana [imzuyel][website] 👋
 
 [![Website](https://img.shields.io/website?label=imzuyel.com&style=for-the-badge&url=https://imzuyel.com?style=plastic&logo=appveyor)](http://imzuyel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imzuyel?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://twitter.com/imzuyel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imzuyel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imzuyel)
 
 ## Full-stack Laravel Delveoper!!
 
