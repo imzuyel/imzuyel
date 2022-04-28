@@ -1,13 +1,73 @@
-### Hi there, I'm Zuyel - Rana [imzuyel][website] 👋
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <br />
+
+</div>
+
+### Hi there, I'm Zuyel Rana [imzuyel][website] 👋
 
 [![Website](https://img.shields.io/website?label=imzuyel.com&style=for-the-badge&url=https://imzuyel.com?style=plastic&logo=appveyor)](http://imzuyel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imzuyel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imzuyel)
+
+
+<!-- Social -->
+<table width="100%">
+<tr>
+<td align="center">
+<a href="https://imzuyel.com">
+<strong>Visit my portfolio website </strong>
+<br />
+<br />
+
+<!-- Centering something has never been easy, has it? -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<td align="center">
+<a href="https://imzuyel.com">
+<strong>Love and Passion is coading</strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img alt="Book" height="100px" src="https://user-images.githubusercontent.com/43112820/165808094-a6a13b8f-c042-4590-b6a2-043a0c12e84d.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+
+<td align="center">
+<a href="https://imzuyel.com">
+<strong>Love to reading Book </strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" alt="book" src="https://user-images.githubusercontent.com/43112820/165811696-038fc5c1-5c82-4747-8444-9bf79f6dd0c6.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+</tr>
+</table>
+
 
 ## Full-stack Laravel Delveoper!!
 
 
 - 👨‍💻 I love do coding and coding
-- 🥅 2021 Goals: Contribute more to Open Source laravel projects
+- 🥅 2022 Goals: Contribute more to Open Source laravel projects
 - ⚡ Fun fact: I love to coding and coding!!
 
 
@@ -45,8 +105,6 @@
 
 ---
 
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -59,12 +117,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="imzuyel's GitHub Stats" src="https://github-readme-stats.imzuyel.vercel.app/api?username=imzuyel&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://imzuyel.com
 [twitter]: https://twitter.com/imzuyel
@@ -72,3 +124,13 @@
 [instagram]: https://instagram.com/imzuyel
 [linkedin]: https://linkedin.com/in/imzuyel
 
+![marquee](https://user-images.githubusercontent.com/43112820/165815774-8969fc8e-364c-4cb3-a0a3-205d42436072.svg)
+
+<table>
+  <td>Visitor -</td>
+  <td>
+  <div style="margin: 0 auto; width: 130px">
+    <img src="https://profile-counter.glitch.me/imzuyel/count.svg" alt="me" style="width: 130px" />
+  </div>
+</td>
+  </table>
