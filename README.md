@@ -16,7 +16,7 @@
 <tr>
 <td align="center">
 <a href="https://imzuyel.com">
-<strong>Visit my portfolio website </strong>
+<strong>Visit portfolio </strong>
 <br />
 <br />
 
@@ -30,12 +30,11 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <td align="center">
 <a href="https://imzuyel.com">
-<strong>Do coding 💻</strong>
-<br />
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<strong>Do coding</strong>
+ 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <img alt="Book" height="100px" src="https://user-images.githubusercontent.com/43112820/165808094-a6a13b8f-c042-4590-b6a2-043a0c12e84d.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -46,12 +45,10 @@
 
 <td align="center">
 <a href="https://imzuyel.com">
-<strong>Reading Book 📖</strong>
+</br>
+<strong>Reading Book</strong>
 <br />
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img height="100" alt="book" src="https://user-images.githubusercontent.com/43112820/165811696-038fc5c1-5c82-4747-8444-9bf79f6dd0c6.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
