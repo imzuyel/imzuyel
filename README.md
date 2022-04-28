@@ -30,7 +30,7 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <td align="center">
 <a href="https://imzuyel.com">
-<strong>Love and Passion is coading</strong>
+<strong>Do coding 💻</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -46,7 +46,7 @@
 
 <td align="center">
 <a href="https://imzuyel.com">
-<strong>Love to reading Book </strong>
+<strong>Reading Book 📖</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
