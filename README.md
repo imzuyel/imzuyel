@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### <img class="emoji" alt="clipboard" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png" width="20" height="20"> Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -47,7 +47,7 @@
 &emsp; 
 </p>
 
-### 👉 Frontend Development
+### <img class="emoji" alt="bookmark_tabs" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png" width="20" height="20"> Frontend Development
 
 <p align="left"> 
   &emsp; 
@@ -77,7 +77,7 @@
 &emsp; 
 </p>
 
-### 👉 Backend Development
+### <img class="emoji" alt="books" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20"> Backend Development
 
 <p align="left"> 
   &emsp; 
@@ -91,7 +91,7 @@
    &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
+### <img class="emoji" alt="floppy_disk" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png" width="20" height="20"> Databases & Cloud Hosting
 
 <p align="left">
   &emsp;
@@ -107,32 +107,24 @@
  &emsp; 
 </p>
   
-### 👉Graphic Designing
+### <img class="emoji" alt="art" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png" width="20" height="20"> Graphic Designing
 <p align="left">
+  &emsp;  
+   <a href="https://www.adobe.com/" target="_blank"> 
+    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
+  </a> 
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  </a>
-    &emsp;
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
 &emsp; 
  </p>
 
-### 👉 Software & Tools
+### <img class="emoji" alt="robot" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" width="20" height="20"> Software & Tools
 
 <p>
   &emsp;
