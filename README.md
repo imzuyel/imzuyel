@@ -77,7 +77,7 @@
 &emsp; 
 </p>
 
-### <img class="emoji" alt="books" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20"> Backend Development
+### <img class="emoji" alt="robot" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" width="20" height="20"> Backend Development
 
 <p align="left"> 
   &emsp; 
@@ -111,7 +111,7 @@
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/" target="_blank"> 
-    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
+    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white"/>
   </a> 
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -124,27 +124,71 @@
 &emsp; 
  </p>
 
-### <img class="emoji" alt="robot" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" width="20" height="20"> Software & Tools
+### <img class="emoji" alt="computer" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20"> IDEs/Editors
 
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=flat&logo=phpstorm&logoColor=yellow&color=yellow&labelColor=darkorchid"></a>
+ &emsp; 
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+ &emsp;
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=pink&color=pink&labelColor=green"></a>
+ &emsp;
+<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important"></a>
+&emsp;
+</p>
+
+### <img class="emoji" alt="control_knobs" src="https://github.githubassets.com/images/icons/emoji/unicode/1f39b.png" width="20" height="20"> Operating System
+
+<p>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+&emsp;
+    <a href="#"><img alt="Pop! OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
  &emsp; 
 </p>
+
+### <img class="emoji" alt="globe_with_meridians" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="20" height="20"> Browsers
+
+<p>
+  &emsp;
+    <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Fire Fox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=flat&logo=Opera&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white"></a>
+ &emsp; 
+</p>
+
+### <img class="emoji" alt="prince" src="https://github.githubassets.com/images/icons/emoji/unicode/1f934.png" width="20" height="20"> Developer/Forums
+
+<p>
+  &emsp;
+    <a href="#"><img alt="stack-overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
+&emsp;
+    <a href="https://www.beecrowd.com.br/judge/en/profile/235224"><img alt="BeeCrowd" src="https://img.shields.io/badge/beecrowd-000000?style=flat&logo=LeetCode&logoColor=#d16c06"></a>
+  &emsp;
+
+</p>
+
+###  <img class="emoji" alt="teacher" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f3eb.png" width="20" height="20"> Education
+<p>
+  &emsp;
+    <a href="#"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white"></a>
+&emsp;
+    <a href=""><img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green"></a>
+  &emsp;
+</p>
+
+
 
 <br/>
 
@@ -173,26 +217,6 @@
 </details>
 
 <br/>
-
-## 🛠️ Other Information
-
-- 🔭 I’m currently working on [Ecommerce](https://shopbd.imzuyel.com/)
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👯 I’m looking to collaborate on [Laravel ecommerce](https://shopbd.imzuyel.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.imzuyel.com](https://www.imzuyel.com)
-
-- 📝 I regularly write articles on [https://www.imzuyel.com](https://www.imzuyel.com)
-
-- 💬 Ask me about **Vue js**
-
-- 📫 How to reach me **zuyel76@gmail.com**
-
-- 📄 Know about my experiences [https://www.imzuyel.com/about](https://www.imzuyel.com/about)
-
-- ⚡ Fun fact **I like to doing coading.**
 
 <h3 align="left">Connect with me:</h3>
 <hr>
